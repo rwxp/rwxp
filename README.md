@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+I enjoy learning programming, therefore you will find various projects on different subjects such as:
+Web development, design and analysis of algorithms, numerical methods, programming languages, among others.
+
+
+I'm looking to collaborate on a large web development project and learn more about it.
