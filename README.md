@@ -21,4 +21,4 @@ I enjoy learning programming, therefore you will find various projects on differ
 Web development, design and analysis of algorithms, numerical methods, programming languages, among others.
 
 
-I'm looking to collaborate on a large web development project and learn more about it.
+I'd like to be involved in a web development project and learn more about it.
